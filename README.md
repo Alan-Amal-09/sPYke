@@ -9,4 +9,4 @@ A bundle of tools for the SPIKE PRIME platform.
 * MORE...
 
 ## How to use
-You can use the sPYke file directly, use the sPYke.pyc from the release branch, or issue the command pip install spyke-toolkit
+You can use the sPYke file directly, use the sPYke.pyc from the release branch, or issue the command ```pip install spyke-toolkit```
